@@ -1,0 +1,84 @@
+D:\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.pdb
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.pdb
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe.config
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.pdb
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.xml
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.exe
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.xml
+E:\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.pdb
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\ROBOT\ROBOT\time_score1 Rx\time_score1\time_score1\obj\Debug\time_score1.pdb
+D:\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\program ROBOT 68\program ROBOT 68\time_score TX A\time_score1\time_score1\obj\Debug\time_score1.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\bin\Debug\time_score1.exe.config
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\bin\Debug\time_score1.exe
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\bin\Debug\time_score1.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\bin\Debug\time_score1.xml
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.vbproj.AssemblyReference.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.Form1.resources
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.Resources.resources
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.vbproj.GenerateResource.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.vbproj.CoreCompileInputs.cache
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.exe
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.xml
+D:\program ROBOT 68\program ROBOT 68\time_score TX B\time_score1\time_score1\obj\Debug\time_score1.pdb

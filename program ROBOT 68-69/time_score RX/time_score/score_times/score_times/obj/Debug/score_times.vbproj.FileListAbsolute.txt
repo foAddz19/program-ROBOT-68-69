@@ -1,0 +1,48 @@
+D:\time_score\score_times\score_times\bin\Debug\score_times.exe.config
+D:\time_score\score_times\score_times\bin\Debug\score_times.exe
+D:\time_score\score_times\score_times\bin\Debug\score_times.pdb
+D:\time_score\score_times\score_times\bin\Debug\score_times.xml
+D:\time_score\score_times\score_times\obj\Debug\score_times.vbproj.AssemblyReference.cache
+D:\time_score\score_times\score_times\obj\Debug\score_times.Form1.resources
+D:\time_score\score_times\score_times\obj\Debug\score_times.Resources.resources
+D:\time_score\score_times\score_times\obj\Debug\score_times.vbproj.GenerateResource.cache
+D:\time_score\score_times\score_times\obj\Debug\score_times.vbproj.CoreCompileInputs.cache
+D:\time_score\score_times\score_times\obj\Debug\score_times.exe
+D:\time_score\score_times\score_times\obj\Debug\score_times.xml
+D:\time_score\score_times\score_times\obj\Debug\score_times.pdb
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.vbproj.AssemblyReference.cache
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.Form1.resources
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.Resources.resources
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.vbproj.GenerateResource.cache
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.vbproj.CoreCompileInputs.cache
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.exe
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.xml
+D:\time_score1\time_score\score_times\score_times\obj\Debug\score_times.pdb
+D:\time_score1\time_score\score_times\score_times\bin\Debug\score_times.exe.config
+D:\time_score1\time_score\score_times\score_times\bin\Debug\score_times.exe
+D:\time_score1\time_score\score_times\score_times\bin\Debug\score_times.pdb
+D:\time_score1\time_score\score_times\score_times\bin\Debug\score_times.xml
+D:\time_score2 Tx\time_score\score_times\score_times\bin\Debug\score_times.exe.config
+D:\time_score2 Tx\time_score\score_times\score_times\bin\Debug\score_times.exe
+D:\time_score2 Tx\time_score\score_times\score_times\bin\Debug\score_times.pdb
+D:\time_score2 Tx\time_score\score_times\score_times\bin\Debug\score_times.xml
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.vbproj.AssemblyReference.cache
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.Form1.resources
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.Resources.resources
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.vbproj.GenerateResource.cache
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.vbproj.CoreCompileInputs.cache
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.exe
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.xml
+D:\time_score2 Tx\time_score\score_times\score_times\obj\Debug\score_times.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\bin\Debug\score_times.exe.config
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\bin\Debug\score_times.exe
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\bin\Debug\score_times.pdb
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\bin\Debug\score_times.xml
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.vbproj.AssemblyReference.cache
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.Form1.resources
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.Resources.resources
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.vbproj.GenerateResource.cache
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.vbproj.CoreCompileInputs.cache
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.exe
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.xml
+D:\program ROBOT 68\program ROBOT 68\time_score RX\time_score\score_times\score_times\obj\Debug\score_times.pdb

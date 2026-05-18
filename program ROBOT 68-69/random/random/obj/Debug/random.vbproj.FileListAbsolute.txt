@@ -1,0 +1,12 @@
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.vbproj.AssemblyReference.cache
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.Form1.resources
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.Resources.resources
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.vbproj.GenerateResource.cache
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.vbproj.CoreCompileInputs.cache
+D:\program ROBOT 68\program ROBOT 68\random\random\bin\Debug\random.exe.config
+D:\program ROBOT 68\program ROBOT 68\random\random\bin\Debug\random.exe
+D:\program ROBOT 68\program ROBOT 68\random\random\bin\Debug\random.pdb
+D:\program ROBOT 68\program ROBOT 68\random\random\bin\Debug\random.xml
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.exe
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.xml
+D:\program ROBOT 68\program ROBOT 68\random\random\obj\Debug\random.pdb

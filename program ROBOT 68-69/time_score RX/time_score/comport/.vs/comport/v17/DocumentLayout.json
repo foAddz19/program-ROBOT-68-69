@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\time_score2 Tx\\time_score\\comport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{294E8EA6-7BB8-438F-AB22-2278BD96512A}|comport\\comport.csproj|d:\\time_score2 tx\\time_score\\comport\\comport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{294E8EA6-7BB8-438F-AB22-2278BD96512A}|comport\\comport.csproj|solutionrelative:comport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E8EA6-7BB8-438F-AB22-2278BD96512A}|comport\\comport.csproj|D:\\time_score2 Tx\\time_score\\comport\\comport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294E8EA6-7BB8-438F-AB22-2278BD96512A}|comport\\comport.csproj|solutionrelative:comport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\time_score2 Tx\\time_score\\comport\\comport\\Form1.cs",
+              "RelativeDocumentMoniker": "comport\\Form1.cs",
+              "ToolTip": "D:\\time_score2 Tx\\time_score\\comport\\comport\\Form1.cs*",
+              "RelativeToolTip": "comport\\Form1.cs*",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:50:19.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\time_score2 Tx\\time_score\\comport\\comport\\Form1.cs",
+              "RelativeDocumentMoniker": "comport\\Form1.cs",
+              "ToolTip": "D:\\time_score2 Tx\\time_score\\comport\\comport\\Form1.cs [Design]*",
+              "RelativeToolTip": "comport\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T06:48:43.578Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

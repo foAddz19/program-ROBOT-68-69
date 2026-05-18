@@ -1,0 +1,16 @@
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.Form1.resources
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.vbproj.GenerateResource.cache
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.GeneratedMSBuildEditorConfig.editorconfig
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.AssemblyInfoInputs.cache
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.AssemblyInfo.vb
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.vbproj.CoreCompileInputs.cache
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\bin\Debug\net9.0-windows\ranmom1.exe
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\bin\Debug\net9.0-windows\ranmom1.deps.json
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\bin\Debug\net9.0-windows\ranmom1.runtimeconfig.json
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\bin\Debug\net9.0-windows\ranmom1.dll
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\bin\Debug\net9.0-windows\ranmom1.pdb
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.dll
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\refint\ranmom1.dll
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.pdb
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ranmom1.genruntimeconfig.cache
+D:\program ROBOT 68\program ROBOT 68\ranmom1\ranmom1\obj\Debug\net9.0-windows\ref\ranmom1.dll

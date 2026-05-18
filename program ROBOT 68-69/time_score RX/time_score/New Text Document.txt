@@ -1,0 +1,104 @@
+Public Class Form1
+    Dim sum As Decimal = 0
+    Dim sum2 As Decimal = 0
+    Dim five As Decimal = 5
+    Dim ten As Decimal = 10
+    Dim twenty As Integer = 20
+    Dim forty As Integer = 40
+    Private stopwatch As New Stopwatch
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+
+        Dim elapsed As TimeSpan = stopwatch.Elapsed
+        Label1.Text = String.Format("{0:00}:{1:00}:{2:00}:{3:00}",
+                                    Math.Floor(elapsed.TotalHours),
+                                    elapsed.Minutes, elapsed.Seconds, elapsed.Milliseconds)
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        If Button1.Text = "Start" Then
+            Timer1.Start()
+            stopwatch.Start()
+            Button1.Text = "Stop"
+            Button3.Enabled = False
+        Else
+            Timer1.Stop()
+            stopwatch.Stop()
+            Button1.Text = "Start"
+            Button3.Enabled = True
+
+        End If
+
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        List1.Items.Add(Label1.Text)
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        stopwatch.Reset()
+        Label1.Text = "00:00:00:00"
+        List1.Items.Clear()
+    End Sub
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        ListBox2.Items.Add(Label1.Text)
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        stopwatch.Reset()
+        Label1.Text = "00:00:00:00"
+        ListBox2.Items.Clear()
+    End Sub
+
+    Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
+        sum = sum + five
+        Label2.Text = sum
+    End Sub
+
+    Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
+        sum = sum + ten
+        Label2.Text = sum
+    End Sub
+
+    Private Sub Button9_Click(sender As Object, e As EventArgs) Handles Button9.Click
+        sum = sum + twenty
+        Label2.Text = sum
+    End Sub
+
+    Private Sub Button10_Click(sender As Object, e As EventArgs) Handles Button10.Click
+        sum = sum + forty
+        Label2.Text = sum
+        List1.Items.Add(Label1.Text)
+    End Sub
+
+    Private Sub Button11_Click(sender As Object, e As EventArgs) Handles Button11.Click
+        sum = sum - five
+        Label2.Text = sum
+    End Sub
+
+    Private Sub Button16_Click(sender As Object, e As EventArgs) Handles Button16.Click
+        sum2 = sum2 + five
+        Label3.Text = sum2
+    End Sub
+
+    Private Sub Button15_Click(sender As Object, e As EventArgs) Handles Button15.Click
+        sum2 = sum2 + ten
+        Label3.Text = sum2
+    End Sub
+
+    Private Sub Button14_Click(sender As Object, e As EventArgs) Handles Button14.Click
+        sum2 = sum2 + twenty
+        Label3.Text = sum2
+    End Sub
+
+    Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Button13.Click
+        sum2 = sum2 + forty
+        Label3.Text = sum2
+        ListBox2.Items.Add(Label1.Text)
+    End Sub
+
+    Private Sub Button12_Click(sender As Object, e As EventArgs) Handles Button12.Click
+        sum2 = sum2 - five
+        Label3.Text = sum2
+    End Sub
+
+End Class

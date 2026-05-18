@@ -1,0 +1,112 @@
+เขียนโปรแกรม vb random เป็นสีกรอบ button
+โดยจัดกลุ่ม กลุ่มที่ 1  button2  button3  button4  button5
+กลุ่มที่ 2  button6  button7  button8 
+กลุ่มที่ 3  button9  button10  button11  
+กลุ่มที่ 4 button12  button13  button14  
+แต่จะกลุ่มจะสุ่มให้ได้ 2 เป็นสีกรอบ เช่น  กลุ่มที่ 1  button2  button3  button4  button5 สุ่มได้ button3  button5
+ปุ่มกด random คือ button 1 ในการกด random ใช้เวลา 5 วิ ในการสุ่ม ขณะตอนสุ่ม ให้กรอบเลื่อน ไปซ้าย วน เฉพาะกลุ่มใครกลุ่มมัน
+
+
+Imports System.Threading
+
+Public Class Form1
+    Dim rnd As New Random()
+    Dim group1 As Button() = {}
+    Dim group2 As Button() = {}
+    Dim group3 As Button() = {}
+    Dim group4 As Button() = {}
+
+    Dim selectedButtons As New List(Of Button)
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+        group1 = {Button2, Button3, Button4, Button5}
+        group2 = {Button6, Button7, Button8}
+        group3 = {Button9, Button10, Button11}
+        group4 = {Button12, Button13, Button14}
+    End Sub
+
+    Private Async Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        '' เคลียร์ขอบทั้งหมด
+        ClearAllBorders()
+
+        ' สุ่มเลือก 2 ปุ่มจากแต่ละกลุ่ม
+        Dim targets1 = GetRandomButtons(group1, 2)
+        Dim targets2 = GetRandomButtons(group2, 2)
+        Dim targets3 = GetRandomButtons(group3, 2)
+        Dim targets4 = GetRandomButtons(group4, 2)
+
+        ' รวมทั้งหมดเพื่อกำหนดขอบตอนสุดท้าย
+        selectedButtons.Clear()
+        selectedButtons.AddRange(targets1)
+        selectedButtons.AddRange(targets2)
+        selectedButtons.AddRange(targets3)
+        selectedButtons.AddRange(targets4)
+
+        ' เริ่มวนกรอบ
+        Dim startTime = Date.Now
+
+        ' อินเด็กซ์ของกรอบแต่ละกลุ่ม
+        Dim index1 = 0
+        Dim index2 = 0
+        Dim index3 = 0
+        Dim index4 = 0
+
+        Do While (Date.Now - startTime).TotalSeconds < 5
+            ClearAllBorders()
+
+            ' วาดกรอบขยับในแต่ละกลุ่ม
+            DrawBorder(group1(index1))
+            DrawBorder(group2(index2))
+            DrawBorder(group3(index3))
+            DrawBorder(group4(index4))
+
+            ' ขยับ
+            index1 = (index1 + 1) Mod group1.Length
+            index2 = (index2 + 1) Mod group2.Length
+            index3 = (index3 + 1) Mod group3.Length
+            index4 = (index4 + 1) Mod group4.Length
+
+            Await Task.Delay(200)
+        Loop
+
+        ' แสดงกรอบตัวที่สุ่มได้
+        ClearAllBorders()
+
+        For Each btn In selectedButtons
+            DrawBorder(btn, Color.Red, 3)
+        Next
+    End Sub
+
+    ' สุ่มเลือกปุ่มไม่ซ้ำ
+    Private Function GetRandomButtons(group As Button(), count As Integer) As List(Of Button)
+        Dim tempList As New List(Of Button)(group)
+        Dim selected As New List(Of Button)
+
+        For i = 1 To count
+            Dim idx = rnd.Next(tempList.Count)
+            selected.Add(tempList(idx))
+            tempList.RemoveAt(idx)
+        Next
+
+        Return selected
+    End Function
+
+    ' ลบขอบทั้งหมด
+    Private Sub ClearAllBorders()
+        For Each ctrl In Controls
+            If TypeOf ctrl Is Button Then
+                Dim btn As Button = CType(ctrl, Button)
+                btn.FlatStyle = FlatStyle.Standard
+            End If
+        Next
+    End Sub
+
+    ' ใส่ขอบให้ปุ่ม
+    Private Sub DrawBorder(btn As Button, Optional borderColor As Color = Nothing, Optional borderWidth As Integer = 2)
+        If borderColor = Nothing Then borderColor = Color.Blue
+        btn.FlatStyle = FlatStyle.Flat
+        btn.FlatAppearance.BorderColor = borderColor
+        btn.FlatAppearance.BorderSize = borderWidth
+    End Sub
+End Class

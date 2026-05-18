@@ -1,0 +1,10 @@
+D:\time_score\comport\comport\bin\Debug\comport.exe.config
+D:\time_score\comport\comport\bin\Debug\comport.exe
+D:\time_score\comport\comport\bin\Debug\comport.pdb
+D:\time_score\comport\comport\obj\Debug\comport.csproj.AssemblyReference.cache
+D:\time_score\comport\comport\obj\Debug\comport.Form1.resources
+D:\time_score\comport\comport\obj\Debug\comport.Properties.Resources.resources
+D:\time_score\comport\comport\obj\Debug\comport.csproj.GenerateResource.cache
+D:\time_score\comport\comport\obj\Debug\comport.csproj.CoreCompileInputs.cache
+D:\time_score\comport\comport\obj\Debug\comport.exe
+D:\time_score\comport\comport\obj\Debug\comport.pdb
